@@ -1,2 +1,2 @@
-# Corey_Portfolio
+# CoreyPortfolio
 Corey's Data Science Portfolio
