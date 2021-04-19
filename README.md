@@ -16,12 +16,13 @@ Quick Link
 [LinkedIn]:https://www.linkedin.com/in/corey-robinson-b852658b/
 [Email]:mailto:crobtennis@gmail.com
 
-In this portfolio is a collection of notebooks, created for a variety of purposes related to academic research, data analysis, and machine learning. 
+Contained in this portfolio is a collection of notebooks, created for a variety of purposes related to academic research, data analysis, and machine learning. 
 
 ## Notebooks
 
 [Comparing Gradient Boosting Algorithms](https://nbviewer.jupyter.org/github/crobtennis/Corey_Portfolio/blob/main/GBDT_SHAP_HYPEROPT/GbdtShapHyperopt.ipynb)
-<img src="https://github.com/crobtennis/Corey_Portfolio/blob/main/GBDT_SHAP_HYPEROPT/Graphs/ShapDependence.png?raw=true">
+
+<img src="https://github.com/crobtennis/Corey_Portfolio/blob/main/GBDT_SHAP_HYPEROPT/Graphs/figcomp.png?raw=true">
 
 ## Posters and Presentations
 [Using Random Forest Classification To Model Marital Happiness](https://speakerdeck.com/crobtennis/using-random-forest-classification-to-model-marital-happiness)
