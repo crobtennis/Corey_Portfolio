@@ -4,17 +4,9 @@
 
 <div align="center">
   
-&nbsp;&nbsp;&nbsp;:e-mail: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:necktie: [LinkedIn][LinkedIn]
+&nbsp;&nbsp;&nbsp;:e-mail: [Email](crobtennis@gmail.com)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter](https://twitter.com/corey_tha_story)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:necktie: [LinkedIn](https://www.linkedin.com/in/corey-robinson-b852658b/)
 
 </div>
-
-<!--
-Quick Link
--->
-
-[Twitter]:https://twitter.com/corey_tha_story
-[LinkedIn]:https://www.linkedin.com/in/corey-robinson-b852658b/
-[Email]:mailto:crobtennis@gmail.com
 
 Contained in this portfolio is a collection of notebooks, created for a variety of purposes related to academic research, data analysis, and machine learning. 
 
