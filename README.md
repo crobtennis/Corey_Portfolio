@@ -35,4 +35,4 @@ Contained in this portfolio is a collection of notebooks, created for a variety 
 
 [News Sources, Political Affiliation, and Perception of Media Bias (Poster presented at the American Psychological Association Convention 2019)](https://github.com/crobtennis/Corey_Portfolio/blob/main/APA_polmedia/APA_poster_2019.png)
 
-<img src="https://github.com/crobtennis/Corey_Portfolio/blob/main/APA_polmedia/APA_poster_2019.png" width="600">
+<img src="https://imgur.com/XCAY6xV" width="600">
