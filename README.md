@@ -22,8 +22,6 @@ Contained in this portfolio is a collection of notebooks, created for a variety 
 
 [Comparing Gradient Boosting Algorithms](https://nbviewer.jupyter.org/github/crobtennis/Corey_Portfolio/blob/main/GBDT_SHAP_HYPEROPT/GbdtShapHyperopt.ipynb)
 
-<img src="https://github.com/crobtennis/Corey_Portfolio/blob/main/GBDT_SHAP_HYPEROPT/Graphs/figcomp.png?raw=true">
-
 [Exploring baseball pitching data using unsupervised learning methods (K-Means Clustering, T-SNE, UMAP)](https://nbviewer.jupyter.org/github/crobtennis/Corey_Portfolio/blob/main/Exploring%20MLB%20Data%20Using%20Unsupervised%20Learning/UnsupervisedLearningPitch.ipynb)
 
 [Constructing Classification Models of Employment Status & Income Using Naive Bayes, Logistic Regression, and Random Forest](https://nbviewer.jupyter.org/github/crobtennis/Corey_Portfolio/blob/main/NB_LR_RF_Classification/NB_LogReg_RF_Classification.ipynb)
