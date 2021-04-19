@@ -4,7 +4,7 @@
 
 <div align="center">
   
-&nbsp;&nbsp;&nbsp;:e-mail: [Email](crobtennis@gmail.com)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter](https://twitter.com/corey_tha_story)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:necktie: [LinkedIn](https://www.linkedin.com/in/corey-robinson-b852658b/)
+&nbsp;&nbsp;&nbsp; [Email](crobtennis@gmail.com)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/corey_tha_story)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/corey-robinson-b852658b/)
 
 </div>
 
