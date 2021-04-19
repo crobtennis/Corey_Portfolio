@@ -18,6 +18,8 @@ Quick Link
 
 Contained in this portfolio is a collection of notebooks, created for a variety of purposes related to academic research, data analysis, and machine learning. 
 
+<img src="https://i.imgur.com/gNYdL54.png">
+
 ## Notebooks
 
 [Comparing Gradient Boosting Algorithms](https://nbviewer.jupyter.org/github/crobtennis/Corey_Portfolio/blob/main/GBDT_SHAP_HYPEROPT/GbdtShapHyperopt.ipynb)
